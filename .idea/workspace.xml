@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed68c52-6906-4d7b-8efb-889ad9e734d4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/day/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/evening/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/morning/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/night/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/assets/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Quote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/ShowMonth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/Weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/backgound-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/clock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/clock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Weather.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/Weather.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showWeather.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/showWeather.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameInput.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/NameInput.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/app.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowMonth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/ShowMonth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backgound-image.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-app/src/components/backgound-image.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/first/недоделанные проекты/src/component/app.component.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/app.css" />
+        <option value="$PROJECT_DIR$/my-app/src/components/ShowMonth.js" />
+        <option value="$PROJECT_DIR$/my-app/package.json" />
+        <option value="$PROJECT_DIR$/my-app/src/index.css" />
+        <option value="$PROJECT_DIR$/my-app/src/App.css" />
+        <option value="$PROJECT_DIR$/my-app/src/components/clock.js" />
+        <option value="$PROJECT_DIR$/my-app/src/app.css" />
+        <option value="$PROJECT_DIR$/my-app/src/components/App.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/Quote.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/NameInput.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/Weather.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/backgound-image.js" />
+        <option value="$PROJECT_DIR$/my-app/src/components/showWeather.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/my-app/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/first/недоделанные проекты/package.json" />
+      <path value="$PROJECT_DIR$/my-app/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="124" />
+    <option name="width" value="1270" />
+    <option name="height" value="855" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="evening" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momentum-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momentum-react" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/git hub projects/momentum-react/my-app/src/components/NameInput.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="PLAIN_TEXT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Home\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git hub projects\momentum-react\my-app\public" />
+      <recent name="D:\git hub projects\momentum-react\my-app\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git hub projects\momentum-react\my-app\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/my-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/my-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/my-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.test" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed68c52-6906-4d7b-8efb-889ad9e734d4" name="Default" comment="" />
+      <created>1610964709478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610964709478</updated>
+      <workItem from="1610964711233" duration="2512000" />
+      <workItem from="1610986853100" duration="6000" />
+      <workItem from="1610986883092" duration="3000" />
+      <workItem from="1610986907511" duration="479000" />
+      <workItem from="1610987965238" duration="7934000" />
+      <workItem from="1611042361740" duration="27000" />
+      <workItem from="1611042401957" duration="10498000" />
+      <workItem from="1611052958950" duration="5000" />
+      <workItem from="1611054162556" duration="11000" />
+      <workItem from="1611074106988" duration="4351000" />
+      <workItem from="1611128978543" duration="757000" />
+      <workItem from="1611136082687" duration="4000" />
+      <workItem from="1611136113530" duration="4225000" />
+      <workItem from="1611164794476" duration="1000" />
+      <workItem from="1611164808761" duration="5352000" />
+      <workItem from="1611219729749" duration="9593000" />
+      <workItem from="1611230351282" duration="11000" />
+      <workItem from="1611230389854" duration="324000" />
+      <workItem from="1611241545091" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="124" width="1270" height="855" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2508117" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32971507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2971506" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my-app/src/components/backgound-image.js</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/reportWebVitals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/reportWebVitals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/my-app/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/react-scripts/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="101" column="31" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/.eslintcache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/reportWebVitals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/app.css" />
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/react-dom/umd/react-dom.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="7061" column="4" selection-start-line="7061" selection-start-column="4" selection-end-line="7061" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/clock.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/dist/0.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/backgound-image.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/public/assets/images/day/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/node_modules/react/cjs/react.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="1517" column="9" selection-start-line="1517" selection-start-column="9" selection-end-line="1517" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/ShowMonth.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/clock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/недоделанные проекты/src/component/app.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/ShowMonth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/Quote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/NameInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/Weather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/backgound-image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/src/components/showWeather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
