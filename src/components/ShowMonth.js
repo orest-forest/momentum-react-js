@@ -1,5 +1,4 @@
 import React, {Component, useState, useEffect} from "react";
-// import s from "../App.css";
 
 function ShowMonth() {
 
@@ -12,8 +11,8 @@ function ShowMonth() {
     let dayOfMonth = date.getDate();
     let dayOfWeek = dayOfWeekName[date.getDay()];
 
-    return <time className= "month">
-        {dayOfWeek} {dayOfMonth}  {monthName[month] }
+    return <time className="month">
+        {dayOfWeek} {dayOfMonth} {monthName[month]}
     </time>
 }
 

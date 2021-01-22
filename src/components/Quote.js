@@ -12,7 +12,6 @@ function Quote() {
         console.log(data[Math.floor(Math.random() * Math.floor(data.length))]);
         let quoteObj = data[Math.floor(Math.random() * Math.floor(data.length))]
         setQuote(data[Math.floor(Math.random() * Math.floor(data.length))])
-        // console.log
     }, [newQuoteResponding]);
 
     const newQuote = () => {
@@ -24,10 +23,10 @@ function Quote() {
     if (quote == null) {
         return null
     } else {
-        return <div>
-            <blockquote>{quote.text}</blockquote>
-            <p>{quote.author}</p>
-            <button onClick={newQuote}>Получить новую цитату</button>
+        return <div className="quote-wrapper">
+            <h4>{quote.text}</h4>
+            <h3>{quote.author}</h3>
+            <button className="quote-button" onClick={newQuote}>Получить новую цитату</button>
         </div>
     }
 }

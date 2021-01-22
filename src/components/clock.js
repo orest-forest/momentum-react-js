@@ -1,24 +1,22 @@
 import React, {Component, useState, useEffect} from "react";
-// import s from "../App.css";
 
 function Clock() {
 
     const [date, setDate] = useState(new Date());
 
-
-    useEffect (() => {
-let timerId = setInterval( () => tick(), 1000)
+    useEffect(() => {
+        let timerId = setInterval(() => tick(), 1000)
         return function cleanup() {
             clearInterval(timerId)
         }
     });
 
-    function tick () {
+    function tick() {
         setDate(new Date());
     }
 
 
-    return <time className = "time">
+    return <time className="time">
         {date.toLocaleTimeString()}
     </time>
 }

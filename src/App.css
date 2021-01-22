@@ -17,11 +17,13 @@ body {
 }
 
 input[type=text]{
-  font: inherit;
-  padding: inherit;
-  margin-left: -2px; /* компенсировать border, раздвигающий текст */
-  width:auto; /* не работает */
-  display: inline; /* тоже */
+ font-weight: bold;
+     font-size: 1.5em;
+     font-family: 'Quicksand', sans-serif;
+     padding: inherit;
+     margin-left: -2px;
+     width: auto;
+     display: inline;
 }
 input:hover{
 border-color: transparent;
@@ -39,6 +41,13 @@ input[type=text]:not(:focus):not(:hover) {
   border-color: transparent;
   color: inherit;
   background: inherit;
+}
+
+form:nth-child(2) > input[type=text]:not(:focus):not(:hover) {
+    border: 2px solid #0077ff8a;
+    border-radius: 4px;
+    color: inherit;
+    background: inherit
 }
 
 .app {
@@ -62,6 +71,47 @@ font-size: 2em;
 
 }
 
+.weather-button {
+    background-color:#45b4c7;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.weather-button:hover {
+	background-color:#5cbf2a;
+}
+ .weather-button:active {
+	position:relative;
+	top:1px;
+}
+
+
+.quote-wrapper {
+margin: 50px;
+width: 500px;
+}
+
+.quote-button {
+ background-color:#45b4c7;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:1px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
 
 .background-img {
    width: 100%;
@@ -90,6 +140,22 @@ h2 {
   color: white;
   border: blue;
   border-radius: 15px;
+}
+
+.weather-error {
+ margin: 50px;
+}
+
+
+.show-weather-wrapper {
+margin: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.weather-icon {
+width: 100px;
 }
 
 .temperature {
