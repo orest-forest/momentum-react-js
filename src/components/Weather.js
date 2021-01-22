@@ -40,14 +40,14 @@ function Weather() {
         }
     };
 
-    if (city == null && cityInfo == null) {
+    if (city == undefined && cityInfo == null) {
         return <form
             onSubmit={submitCity}
         >
             <input
                 type="text"
                 onChange={handleChange}
-                value='Введите ваш город'
+                defaultValue='Введите ваш город'
             />
             <button  className="weather-button" onClick={submitCity}>Узнать погоду</button>
         </form>
