@@ -168,8 +168,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="155" />
+    <option name="x" value="-3" />
+    <option name="y" value="107" />
     <option name="width" value="1270" />
     <option name="height" value="959" />
   </component>
@@ -400,7 +400,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/my-app/src/components/backgound-image.js</url>
+          <url />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
